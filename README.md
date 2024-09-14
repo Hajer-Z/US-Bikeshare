@@ -1,10 +1,10 @@
 # US-Bikeshare
 
-##Overview
+## Overview
 
 In this prooject, I Developed a user-friendly Python application providing comprehensive insights into Bikeshare systems across the United States.
 
-##Data Files
+## Data Files
 
 1. Raw data:
    - chicago.csv
@@ -13,7 +13,7 @@ In this prooject, I Developed a user-friendly Python application providing compr
 2. Python Application
    - bikeshare.py
   
-##Features
+## Features
 
 - City Selection: The application allows users to analyze data for three cities: Chicago, New York City, and Washington, D.C.
 - Time Filtering: Users can filter the data by month (e.g., January to June) or by a specific day of the week.
